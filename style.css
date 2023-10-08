@@ -1,8 +1,4 @@
-/* TO DO LIST:
-  1) Fix spacing of nav links when the page shrinks (why no upper margin)?
 
-
-*/
 
 * {
   font-family: Lato, sans-serif;
@@ -14,7 +10,7 @@ body {
   background-color: rgb(232, 232, 232);
   display: flex;
   justify-content: center;
-
+  background: url("files/musicback.png") no-repeat;
 }
 
 .top {
@@ -47,7 +43,6 @@ body {
 
 .bottom-header {
   width: 100%;
-  display: flex;
   box-shadow: 0px 10px 20px rgba(0,0,0,0.1);
   align-items: top;
   padding-left: 40px;
@@ -59,13 +54,14 @@ body {
 }
 
 .bottom-header a {
-  position: relative;
+  display: inline-block;
   text-decoration: none;
   margin-right: 25px;
   color: black;
   font-size: 16px;
-  margin-top: 10px;
+  margin-top: 5px;
 }
+
 
 .bottom-header a:hover {
   color: rgb(1, 1, 119);
@@ -77,7 +73,6 @@ body {
 }
 
 
-
 .main-section {
   box-shadow: 3px 0px 5px rgba(0,0,0,0.1), -3px 0px 5px rgba(0,0,0,0.1);
   padding: 20px;
@@ -85,10 +80,19 @@ body {
   margin-top: 140px;
   margin-left: 60px;
   margin-right: 60px;
-  height: 100vh;
-  width: 100vh;
+  margin-bottom: 64px;
+  width: 100%;
+  border-radius: 5px;
+  background-color: rgb(232, 232, 232);
   display: block;
 }
+
+.intro-header {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 15px;
+}
+
 
 .photo {
   width: 200px;
@@ -97,10 +101,73 @@ body {
   border-radius: 20px;
   border: solid 2px gray;
   float: left;
-  margin-right: 20px;
-  margin-bottom: 20px;
+  margin-right: 24px;
+  margin-bottom: 12px;
 }
 
 .intro {
-  font-size: 16px;
+  font-size: 14px;
+  text-indent: 32px;
+  margin-bottom: 12px;
+  line-height: 24px;
+  font-weight: 300;
+}
+
+.intro-section {
+  margin-bottom: 24px;
+}
+
+.bio {
+  display: block;
+  overflow: hidden;
+}
+
+.video-wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  margin-top: 24px;
+  margin-bottom: 24px;
+}
+
+.portfoliovid {
+  width: 60%;
+  border: 1px solid;
+  border-radius: 4px;
+  box-shadow: 0px 0px 5px rgba(0,0,0,0.9);
+}
+
+.general-text {
+  font-size: 14px;
+  margin-bottom: 12px;
+  line-height: 24px;
+  font-weight: 300;
+}
+
+.social-media-menu {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  margin-top: 32px;
+  padding-top: 12px;
+  border-top: solid;
+}
+
+.fa-brands {
+  margin-right: 12px;
+  font-size: 24px;
+  color: rgb(13, 66, 141);
+}
+
+
+@media screen and (max-width: 800px) {
+.photo {
+  width: 150px;
+  height: 200px;
+}
+}
+
+@media screen and (max-width: 500px) {
+
+
 }
