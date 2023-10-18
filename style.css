@@ -183,6 +183,23 @@ body {
   margin-bottom: 40px;
 }
 
+.gen-h a {
+  text-decoration: none;
+  color: grey;
+}
+
+.gen-h a:hover {
+  text-decoration: underline;
+}
+
+#port-photo {
+  float: right;
+  margin-right: 0;
+  margin-left: 24px;
+  border-radius: 50%;
+  border: none;
+}
+
 @media screen and (max-width: 800px) {
 .photo {
   width: 150px;
