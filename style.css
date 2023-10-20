@@ -115,6 +115,7 @@ body {
 
 .intro-section {
   margin-bottom: 24px;
+  border-bottom: solid;
 }
 
 .bio {
@@ -197,8 +198,41 @@ body {
   margin-right: 0;
   margin-left: 24px;
   border-radius: 50%;
+  border: solid 1px;
+}
+
+#portfolio-h {
+  text-align: center;
+  margin-left: 32px;
+  margin-right: 32px;
+  font-size: 14px;
+}
+
+#non-italic-text {
+  font-style: normal;
+}
+
+#no-border {
   border: none;
 }
+
+
+.resume-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 24px;
+}
+
+#sub-header {
+  font-size: 16px;
+  width: 50%;
+  justify-content: left;
+  border-bottom: solid 1px;
+  line-height: 16px;
+  margin-bottom: 32px;
+}
+
 
 @media screen and (max-width: 800px) {
 .photo {
