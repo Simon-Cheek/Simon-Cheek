@@ -242,6 +242,8 @@ body {
 }
 
 @media screen and (max-width: 500px) {
-
+.portfoliovid {
+  width: 80%;
+}
 
 }
