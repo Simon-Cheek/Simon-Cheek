@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Simon Cheek - Composer</title>
+    <meta name="description" content="Simon Cheek Software">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;1,300;1,400&display=swap"
+        rel="stylesheet">
+    <script src="https://kit.fontawesome.com/db14e1da08.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <header>
+        <div class="top">
+            <div class="top-header">
+                <h1><a href="index.html">
+                        Simon Cheek, Composer
+                    </a></h1>
+            </div>
+
+            <div class="bottom-header">
+                <nav class="nav-menu">
+                    <a href="index.html">Home</a>
+                    <a href="projects.html">Upcoming Projects</a>
+                    <a href="portfolio.html">Portfolio</a>
+                    <a href="resume.html">Resume</a>
+                    <a href="contact.html">Contact</a>
+                    <a href="software.html">Software</a>
+                </nav>
+            </div>
+        </div>
+
+    </header>
+
+
+
+    <main class="main-section">
+        <div class="intro-section">
+            <h3 class="intro-header">
+                Randomized Color Guesser Game
+            </h3>
+        </div>
+
+
+
+
+
+
+        <div class="content">
+
+            <h4 class="center" id="banner-intro">Compete to predict which color will appear next!</h4>
+
+            <form action="/" id="color-user">
+                <div>
+                    <label for="user1">Player 1:</label>
+                    <input type="text" id="user1" name="user1">
+                </div>
+                <div>
+                    <label for="user2">Player 2:</label>
+                    <input type="text" id="user2" name="user2">
+                </div>
+                <button class="btn" id="begin">Begin!</button>
+            </form>
+
+
+            <div id="color-guesser">
+                <hr> <br>
+
+                <h4 class="center"><i><span class="p1">User 1</span></i> <span id="vs">vs.</span> <i><span
+                            class="p2">User 2</span></i>
+                </h4>
+                <h3 id="notif" class="center"></h3>
+                <br>
+
+
+                <div id="color-game">
+                    <form action="/" id="guess">
+
+                        <div class="guess-input">
+                            <label for="guess1"><span class="p1">User 1</span>: <span id="p1score">0</span>/ 3
+                                points</label>
+                            <input type="color" id="guess1" name="guess1">
+                        </div>
+
+
+                        <div class="guess-input">
+                            <label for="guess2"><span class="p2">User 2</span>: <span id="p2score">0</span>/ 3
+                                points</label>
+                            <input type="color" id="guess2" name="guess2">
+                        </div>
+
+                        <div>
+                            <button class="btn" id="submit">Submit</button>
+                        </div>
+
+
+                    </form>
+
+                    <div class="color-orb"></div>
+                </div>
+
+                <div class="reset-btn">
+                    <button class="btn" id="reset">Reset</button>
+                </div>
+
+
+
+
+            </div>
+
+
+
+
+        </div>
+
+
+
+
+
+        <div class="social-media-menu">
+            <a href="https://www.youtube.com/channel/UChRgLNdcIhqnDiD2bAwlNlA">
+                <i class="fa-brands fa-youtube"></i>
+            </a>
+
+            <a href="https://www.linkedin.com/in/simon-cheek-83726b175/">
+                <i class="fa-brands fa-linkedin"></i>
+            </a>
+
+            <a href="https://github.com/Simon-Cheek">
+                <i class="fa-brands fa-github"></i>
+            </a>
+
+        </div>
+
+
+
+
+
+
+
+
+    </main>
+    <script src="app.js"></script>
+</body>
+
+</html>
