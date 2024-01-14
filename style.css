@@ -439,6 +439,7 @@ input {
 }
 
 
+
 @media screen and (max-width: 800px) {
   .photo {
     width: 150px;
@@ -506,5 +507,10 @@ input {
     display: flex;
   }
 
+  #cat-info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
 }
