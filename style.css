@@ -281,6 +281,15 @@ input {
   cursor: pointer;
 }
 
+.btn-grey {
+  background-image: linear-gradient(rgba(240, 240, 240, 0.3), rgba(70, 70, 70, 0.3));
+}
+
+.btn-grey:hover {
+  background-image: linear-gradient(rgba(250, 250, 250, 0.3), rgba(120, 120, 120, 0.3));
+}
+
+
 .btn-blue {
   background-image: linear-gradient(rgba(0, 120, 220, 0.3), rgba(0, 0, 250, 0.3));
 }
@@ -420,6 +429,14 @@ input {
   justify-content: center;
 }
 
+.cat-item {
+  background-color: white;
+}
+
+.fact-list {
+  margin-top: 0;
+  padding-top: 0;
+}
 
 
 @media screen and (max-width: 800px) {
