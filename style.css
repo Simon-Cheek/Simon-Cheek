@@ -415,6 +415,12 @@ input {
   text-align: center;
 }
 
+.center-wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+
 
 @media screen and (max-width: 800px) {
   .photo {
