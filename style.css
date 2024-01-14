@@ -274,6 +274,7 @@ input {
   border-radius: 7px;
   border: 1px solid black;
   box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+  margin: 1em 0.2em;
 }
 
 .btn:hover {
@@ -286,6 +287,14 @@ input {
 
 .btn-blue:hover {
   background-image: linear-gradient(rgba(0, 180, 200, 0.3), rgba(0, 70, 230, 0.3));
+}
+
+.btn-green {
+  background-image: linear-gradient(rgba(0, 80, 20, 0.3), rgba(0, 200, 30, 0.3));
+}
+
+.btn-green:hover {
+  background-image: linear-gradient(rgba(0, 250, 180, 0.3), rgba(0, 180, 200, 0.3));
 }
 
 #color-user {
@@ -387,6 +396,24 @@ input {
   background-color: lightgrey !important;
 }
 
+.lizzy {
+  height: 180px;
+  border: 1px solid black;
+  border-radius: 20%;
+  box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
+  display: inline-block;
+}
+
+#cat-info {
+  display: flex;
+  align-items: center;
+  margin: 20px 0;
+}
+
+.side-text {
+  margin: 12px;
+  text-align: center;
+}
 
 
 @media screen and (max-width: 800px) {
