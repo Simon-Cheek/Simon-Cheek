@@ -447,6 +447,10 @@ input {
   padding-top: 0;
 }
 
+.less-space {
+  margin: 4px 0px;
+}
+
 
 
 @media screen and (max-width: 800px) {
