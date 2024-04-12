@@ -3,7 +3,7 @@
 My name is Simon Cheek, and I am a Music/CS Student at Brigham Young University! I currently work as a Web Developer for the BYU School of Music and have a background in the following Technologies:
 
 **Software Engineering**:
-- Python & Associated Libraries (Matplot, Requests, Bs4, Tkinter, and more!)
+- Python & Associated Libraries (Matplot, Requests, Bs4, Tkinter, NumPy, and more!)
 - App Development (Flutter SDK)
 - C++ (Data Structures and Algorithms)
 - Java (Minecraft Modding)
@@ -12,12 +12,11 @@ My name is Simon Cheek, and I am a Music/CS Student at Brigham Young University!
 - MongoDB
 
 **Web Development**:
-- HTML/CSS/Javascript
-- UI/UX Experience
-- Bootstrap CSS Framework
+- Front End Languages (HTML/CSS/JS/TS)
+- MERN Stack Technologies (MongoDB / Express.JS / React / Node.JS)
 - PHP
-- Embedded Javascript
-- Responsive Web Design, Media Query, and more!
+- Bootstrap CSS Framework
+- UI/UX Design Experience
 - AWS Deployment
 
 
