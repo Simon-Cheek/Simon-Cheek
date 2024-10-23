@@ -1,0 +1,14 @@
+{
+  "name": "old-website-workflow-demo",
+  "version": "1.0.0",
+  "description": "Demos a Github actions workflow",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Simon Cheek",
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
