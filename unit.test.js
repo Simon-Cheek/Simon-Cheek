@@ -6,7 +6,7 @@ describe("Setting up unit tests for JS helper functions", () => {
       const randomNumber = randomNum();
       expect(randomNumber).not.toBeNull();
       expect(randomNumber).toBeGreaterThan(0);
-      expect(randomNumber).toBeLessThan(260);
+      expect(randomNumber).toBeLessThan(50);
     }
   });
 });
