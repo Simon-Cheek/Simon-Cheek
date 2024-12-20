@@ -5,15 +5,17 @@ My name is Simon Cheek, and I am a Music/CS Student at Brigham Young University!
 **Software Engineering**:
 - Python & Associated Libraries (Matplot, Requests, Bs4, Tkinter, NumPy, and more!)
 - App Development (Flutter SDK)
-- C++ (Data Structures and Algorithms)
-- Java, Spring Boot
+- C++
+- Java, Spring Boot, JUnit
 - Node.JS (Express, NPM)
 - SQL (MySQL)
 - MongoDB
+- Docker / GHA / CICD
 
 **Web Development**:
 - Front End Languages (HTML/CSS/JS/TS)
 - MERN Stack Technologies (MongoDB / Express.JS / React / Node.JS)
+- Next.JS
 - Bootstrap CSS Framework
 - UI/UX Design Experience
 - AWS EC2, Lambda, CDK, API Gateway, DynamoDB, Redis Caching, and more!
