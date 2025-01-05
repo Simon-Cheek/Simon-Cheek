@@ -5,7 +5,7 @@ My name is Simon Cheek, and I am a Music/CS Student at Brigham Young University!
 **Software Engineering**:
 - Python & Associated Libraries (Matplot, Requests, Bs4, Tkinter, NumPy, and more!)
 - App Development (Flutter SDK)
-- C++
+- C/C++
 - Java, Spring Boot, JUnit
 - Node.JS (Express, NPM)
 - SQL (MySQL)
