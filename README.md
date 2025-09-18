@@ -3,7 +3,7 @@
 My name is Simon Cheek, and I study Computer Science at Georgia Tech! I currently work as a Software Engineer for FamilySearch and have a background in the following Technologies:
 
 **Software Engineering**:
-- Python & Associated Libraries (Matplot, Requests, Bs4, Tkinter, NumPy, and more!)
+- Python, Django, Numpy
 - App Development (Flutter SDK)
 - C/C++
 - Java, Spring Boot, JUnit
