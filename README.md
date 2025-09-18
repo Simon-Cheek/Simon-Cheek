@@ -14,8 +14,9 @@ My name is Simon Cheek, and I study Computer Science at Georgia Tech! I currentl
 
 **Web Development**:
 - Front End Languages (HTML/CSS/JS/TS)
-- MERN Stack Technologies (MongoDB / Express.JS / React / Node.JS)
+- MERN Stack Technologies (MongoDB / Express.JS / React.JS / Node.JS)
 - Next.JS
+- Tanstack Router/Query
 - Bootstrap CSS Framework
 - UI/UX Design Experience
 - AWS EC2, Lambda, CDK, API Gateway, DynamoDB, Redis Caching, and more!
