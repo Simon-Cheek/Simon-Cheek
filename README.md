@@ -8,7 +8,7 @@ My name is Simon Cheek, and I study Computer Science at Georgia Tech! I currentl
 - C/C++
 - Java, Spring Boot, JUnit
 - Node.JS (Express, NPM)
-- SQL (MySQL)
+- SQL (MySQL, PostgreSQL)
 - MongoDB
 - Docker / GHA / CICD
 
