@@ -1,11 +1,13 @@
 ## Welcome to my Profile!
 
+I am a software engineer passionate about distributed systems, machine learning, high performance computing, and more! I take pride in understanding the fundamentals of computer science as well as the more practical engineering skills useful in industry and other projects.
+
 ## Current Role: Software Engineer @ FamilySearch
 - Java, Spring Boot, SQL, PostgreSQL, Apache Cassandra, AWS, etc
 
-Undergrad: BYU Music / CS '25
-Masters: GT CS (Computing Systems + ML) '28
-Primary Interests: Distributed Systems, Cloud Infrastructure, ML/AI, HPC
+## Education
+- Undergrad, BYU (Music + CS) '25
+- Masters, GT (Computing Systems + ML) '28
 
 ## Primary Languages:
 - C
