@@ -1,26 +1,49 @@
 ## Welcome to my Profile!
 
-My name is Simon Cheek, and I study Computer Science at Georgia Tech! I currently work as a Software Engineer for FamilySearch and have a background in the following Technologies:
+Current Role: Software Engineer @ FamilySearch
+- Java, Spring Boot, SQL, PostgreSQL, Apache Cassandra, AWS, etc
 
-**Software Engineering**:
-- Python, Django, Numpy
-- App Development (Flutter SDK)
-- C/C++
-- Java, Spring Boot, JUnit
-- Node.JS (Express, NPM)
-- SQL (MySQL, PostgreSQL)
+Undergrad: BYU Music / CS '25
+Masters: GT CS (Computing Systems + ML) '28
+
+Primary Interests: Distributed Systems, Cloud Infrastructure, ML/AI, HPC
+
+Primary Languages:
+- C
+- C++
+- Java
+- Python
+- Javascript
+- Typescript
+- SQL
+
+Frameworks:
+- Django
+- Spring / Spring Boot
+- React
+- Bootstrap
+- Flutter
+- Node
+- Express
+- Tanstack
+- Next.js
+
+Databases / Storage:
 - MongoDB
-- Docker / GHA / CICD
+- PostgreSQL
+- MySQL
+- Apache Cassandra
+- Redis
+- DynamoDB
+- S3
 
-**Web Development**:
-- Front End Languages (HTML/CSS/JS/TS)
-- MERN Stack Technologies (MongoDB / Express.JS / React.JS / Node.JS)
-- Next.JS
-- Tanstack Router/Query
-- Bootstrap CSS Framework
-- UI/UX Design Experience
-- AWS EC2, Lambda, CDK, API Gateway, DynamoDB, Redis Caching, and more!
-- Jest and Cypress Testing Libraries
+Other / Infrastructure:
+- Docker
+- AWS (EC2, ECS, ELB, SQS, API Gateway, Lambda, etc)
+- Test Frameworks (Jest, React Testing Library, JUnit, PyTest, etc)
+- ML: Numpy, Pandas, Matplot, Scikit-Learn, etc
+
+
 
 
 <!---
