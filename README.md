@@ -1,14 +1,13 @@
 ## Welcome to my Profile!
 
-Current Role: Software Engineer @ FamilySearch
+## Current Role: Software Engineer @ FamilySearch
 - Java, Spring Boot, SQL, PostgreSQL, Apache Cassandra, AWS, etc
 
 Undergrad: BYU Music / CS '25
 Masters: GT CS (Computing Systems + ML) '28
-
 Primary Interests: Distributed Systems, Cloud Infrastructure, ML/AI, HPC
 
-Primary Languages:
+## Primary Languages:
 - C
 - C++
 - Java
@@ -17,7 +16,7 @@ Primary Languages:
 - Typescript
 - SQL
 
-Frameworks:
+## Frameworks:
 - Django
 - Spring / Spring Boot
 - React
@@ -28,7 +27,7 @@ Frameworks:
 - Tanstack
 - Next.js
 
-Databases / Storage:
+## Databases / Storage:
 - MongoDB
 - PostgreSQL
 - MySQL
@@ -37,7 +36,7 @@ Databases / Storage:
 - DynamoDB
 - S3
 
-Other / Infrastructure:
+## Other / Infrastructure:
 - Docker
 - AWS (EC2, ECS, ELB, SQS, API Gateway, Lambda, etc)
 - Test Frameworks (Jest, React Testing Library, JUnit, PyTest, etc)
