@@ -1,6 +1,6 @@
 ## Welcome to my Profile!
 
-I am a software engineer focused on Distributed Systems, Networks, and Cloud Infra.
+I am a software engineer focused on Distributed Systems, Networks, Storage, and Cloud Infra.
 
 Most Recent Roles
 - Software Engineer @ FamilySearch (Current) | Java, Python, SQL, Spring Boot
