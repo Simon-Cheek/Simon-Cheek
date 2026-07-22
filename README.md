@@ -2,14 +2,17 @@
 
 I am a software engineer focused on Distributed Systems, Networks, Storage, and Cloud Infra.
 
-Most Recent Roles
-- Software Engineer @ FamilySearch (Current) | Java, Python, SQL, Spring Boot
-- Web Development Intern @ FamilySearch | React, Javascript, Typescript, UI, Node.JS
-- Student Web Developer @ BYU | HTML, CSS, JS, JQuery
+Stats
+- SWE @ FamilySearch: Spring Boot, PostgreSQL, AWS, Microservices
+- Researcher: GT Internet Intelligence Lab, Network Measurement
+- MSCS: Georgia Tech, Computing Systems (In Progress)
+- BM: Brigham Young University, Minor in CS
 
-Education
-- MSCS, Georgia Tech (exp. Graduation 2028)
-- BM (Bachelor's in Music), BYU (2025), CS Minor
+Primary Personal Projects
+- Distributed File System (C++)
+- SimonMQ - Message Queues from Scratch (Go)
+- Stock Trading Simulator (NextJS)
+- KSL Car Scraper + Deal Finder (Python)
 
 Research Areas
 - Distributed Systems
